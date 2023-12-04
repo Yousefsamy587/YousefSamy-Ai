@@ -88,10 +88,10 @@ section {
     color: #fff;
     background-color: #3a6cf4;
     text-decoration: none;
-    font-size: 1em;
+    font-size: 1.1em;
     font-weight: 900;
     display: inline-block;
-    padding: 1em 2em;
+    padding: 1em 2.2em;
     letter-spacing: 1px;
     border-radius: 20px;
     margin-bottom: 15px;
@@ -106,7 +106,7 @@ section {
 .social-icons a {
     color: #ffffff;
     font-size: 1.7em;
-    padding-right: 15px;
+    padding-right: 5px;
     transition: 0.7s ease;
 }
 
