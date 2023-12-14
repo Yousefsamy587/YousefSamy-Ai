@@ -186,10 +186,10 @@ section {
     background-color: #fff;
     border: 2px solid #fff;
     min-height: 1em;
-    width: 25em;
+    width: 37em;
     overflow: hidden;
-    border-radius: 15px;
-    margin: 20px;
+    border-radius: 16px;
+    margin: 19px;
     transition: 0.7s ease;
 }
 
@@ -206,7 +206,7 @@ section {
 }
 
 .project-info {
-    padding: 0.5em;
+    padding: 0.4em;
 }
 
 .project-category {
